@@ -4,16 +4,38 @@
 
 {
          "name": "TH-VIP-FREE",
-         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/%E1%80%85%E1%80%99%E1%80%BA%E1%80%B810.ovpn"
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/VIP-FREE.ovpn"
       }
 ,
-
+{
+         "name": "TH-VIP-FREE",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/VIP-FREE.ovpn"
+      }
+,
+         "name": "TH-VIP-FREE",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/VIP-FREE.ovpn"
+      }
+,
 {
          "name": "TH-VIP-DTAC-GAMES01",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/GAMES11.ovpn"
       }
 ,
-
+{
+         "name": "TH-VIP-DTAC-GAMES01",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/GAMES11.ovpn"
+      }
+,
+{
+         "name": "TH-VIP-DTAC-GAMES01",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/GAMES11.ovpn"
+      }
+,
+{
+         "name": "TH-VIP-DTAC-GAMES02",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC01.ovpn"
+      }
+,
 {
          "name": "TH-VIP-DTAC-GAMES02",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC01.ovpn"
@@ -62,12 +84,12 @@
    ],
 "message":"
 နွေထွေးစွာကြိုဆိုပါ၏
-KMT VIPဝန်ဆောင်မှု
+KMTVIPဝန်ဆောင်မှု
 အသုံးပြုရနိုင်သော ဆင်းကဒ်များ
 ထူးမူ …ဒီတက် များဖြစ်ပါတယ်
 🔵DTAC NOPRO
 🔴TRUE NOPRO
-🎰စလော့ဂိမ်း
+🎰စလော့ဂိမ်း@@@
 🟢IOS+Android+PC
 🏅VIP Face+Youtube
 🏅VIP Game+Online
@@ -77,5 +99,5 @@ KMT VIPဝန်ဆောင်မှု
 APKဗားရှင်း-10
 \n\nFb: Kyaw Soe Oo",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":11
+   "version":12
 }
