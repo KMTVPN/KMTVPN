@@ -5,7 +5,7 @@
 
 {
          "name": "TH-VIP-DTAC-GAMES01",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/GAMES11.ovpn"
+         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/TH-VIP-TRUE-DTAC-001.ovpn
       }
 ,
 {
@@ -20,7 +20,7 @@
 ,
 {
          "name": "TH-VIP-DTAC-GAMES04",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC04.ovpn"
+         "url": "https://raw.githubusercontent.com/KMTVPN/KMTVPN/main/TH-VIP-TRUE-DTAC-001.ovpnn"
       }
 ,
 {
@@ -75,5 +75,5 @@ KMTVIPဝန်ဆောင်မှု
 သက်တမ်းကုန်နေ့ထိအားမခံသည်
 \n\nFb: Kaung  myathuthu",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":13
+   "version":15
 }
